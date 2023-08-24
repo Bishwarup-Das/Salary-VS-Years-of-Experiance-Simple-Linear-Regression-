@@ -26,7 +26,7 @@ To run the project locally, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Bishwarup-Das/Salary-VS-Years-of-Experiance-Simple-Linear-Regression-.git
+git clone https://github.com/Ashishprasa/Salary-VS-Years-of-Experiance-Simple-Linear-Regression-.git
 ```
 
 2. Navigate to the project directory:
